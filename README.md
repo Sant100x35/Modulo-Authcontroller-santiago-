@@ -8,4 +8,4 @@ Módulo PHP para registro e inicio de sesión de usuarios.
 - Login seguro con encriptación de contraseñas
 - Vistas con Twig (HTML/CSS)
 
-https://github.com/Sant100x35/Modulo-Authenticor.git
+[https://github.com/Sant100x35/Modulo-Authenticor.git](https://github.com/Sant100x35/Modulo-Authcontroller-santiago-)
